@@ -4,10 +4,11 @@
 ![McSkill](https://img.shields.io/badge/For-McSkill-blue)
 ![GalaxyCraft 1.7.10](https://img.shields.io/badge/Galaxycraft-1.7.10-purple)
 
+# .Exe файл можно скачать по ссылке **[Гугл Диск](https://drive.google.com/file/d/11bTaS6upmMcGLvYMwG-WqZIh3SzRnZxe/view?usp=drivesdk)**
 ## Описание
 
 ### Этот скрипт автоматизирует процесс копания в Minecraft по прямой линии. Программа использует компьютерное зрение и автоматизацию ввода для управления персонажем.
-Все проекты можно найти на **[моём сайте](https://0ptim1st-DK.github.io)**
+### Все проекты можно найти на **[моём сайте](https://0ptim1st-DK.github.io)**
 
 ## Возможности
 
