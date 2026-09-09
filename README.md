@@ -4,8 +4,8 @@
 ![McSkill](https://img.shields.io/badge/For-McSkill-blue)
 ![GalaxyCraft 1.7.10](https://img.shields.io/badge/Galaxycraft-1.7.10-purple)
 
-## .exe файл доступен в **[релизе](https://github.com/0ptim1st-DK/autominer/releases/tag/v2.0)** по **[ссылке](https://github.com/0ptim1st-DK/autominer/releases/download/v2.0/MinecraftMiningHelper.exe)**
-## Или **[Гугл Диск](https://drive.google.com/file/d/19D39baK2fQzJtASghonkVnVVd0RrAehE/view?usp=drive_link)**
+## что бы скачать файл.exe **[тык здесь](https://github.com/0ptim1st-DK/autominer/releases/download/v2.0/MinecraftMiningHelper.exe)**
+## Или на **[Гугл Диске](https://drive.google.com/file/d/19D39baK2fQzJtASghonkVnVVd0RrAehE/view?usp=drive_link)**
 
 ## Описание
 
