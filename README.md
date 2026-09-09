@@ -1,11 +1,10 @@
 # - Автоматический копальщик для Minecraft
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.7.10-green)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.7.10+-green)
 ![McSkill](https://img.shields.io/badge/For-McSkill-blue)
 ![GalaxyCraft 1.7.10](https://img.shields.io/badge/Galaxycraft-1.7.10-purple)
 
 ## что бы скачать файл.exe **[тык здесь](https://github.com/0ptim1st-DK/autominer/releases/download/v2.0/MinecraftMiningHelper.exe)**
-## Или на **[Гугл Диске](https://drive.google.com/file/d/19D39baK2fQzJtASghonkVnVVd0RrAehE/view?usp=drive_link)**
 
 ## Описание
 
